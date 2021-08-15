@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from master"
+echo "Hello world from master"
